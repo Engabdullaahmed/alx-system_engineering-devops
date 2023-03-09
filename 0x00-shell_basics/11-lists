@@ -1,2 +1,2 @@
 #!/bin/bash 
-ls . .. /book -la
+ls . .. /boot -la
